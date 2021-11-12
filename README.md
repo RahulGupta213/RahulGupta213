@@ -1,6 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi 👋, I'm Rahul Kumar Gupta</h1>
+<h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, <img src="https://github.com/RahulGupta213/RahulGupta213/blob/main/text.gif" height="40"></h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulgupta213&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgupta213" /> </p>
 
 - 🔭 I’m currently working **on my portfolio**
